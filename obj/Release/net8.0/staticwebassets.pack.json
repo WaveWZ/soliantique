@@ -1,0 +1,581 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/obj/Release/net8.0/scopedcss/projectbundle/SoliAntique.bundle.scp.css",
+      "PackagePath": "staticwebassets/SoliAntique.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/about.jpg",
+      "PackagePath": "staticwebassets/img/about.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/category/iran.png",
+      "PackagePath": "staticwebassets/img/category/iran.png"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/category/iran2.jpg",
+      "PackagePath": "staticwebassets/img/category/iran2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/category/turk.png",
+      "PackagePath": "staticwebassets/img/category/turk.png"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/contact.png",
+      "PackagePath": "staticwebassets/img/contact.png"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i1_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i1_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i1_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i1_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i1_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i1_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i1_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i1_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i2_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i2_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i2_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i2_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i2_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i2_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i2_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i2_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i3_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i3_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i3_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i3_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i3_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i3_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i3_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i3_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i4_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i4_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i4_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i4_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i4_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i4_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i4_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i4_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i5_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i5_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i5_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i5_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i5_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i5_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i5_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i5_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i6_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i6_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i6_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i6_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i6_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i6_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i6_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i6_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i7_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i7_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i7_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i7_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i7_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i7_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i7_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i7_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i8_1.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i8_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i8_2.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i8_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i8_3.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i8_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/iranian/i8_4.jpg",
+      "PackagePath": "staticwebassets/img/iranian/i8_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/logo/logo.png",
+      "PackagePath": "staticwebassets/img/logo/logo.png"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t1_1.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t1_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t1_2.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t1_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t1_3.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t1_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t1_4.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t1_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t2_1.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t2_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t2_2.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t2_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t2_3.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t2_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t2_4.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t2_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t3_1.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t3_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t3_2.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t3_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t3_3.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t3_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t3_4.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t3_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t4_1.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t4_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t4_2.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t4_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t4_3.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t4_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t4_4.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t4_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t5_1.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t5_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t5_2.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t5_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t5_3.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t5_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/turkish/t5_4.jpg",
+      "PackagePath": "staticwebassets/img/turkish/t5_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v1_1.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v1_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v1_2.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v1_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v1_3.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v1_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v1_4.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v1_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v2_1.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v2_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v2_2.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v2_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v2_3.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v2_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v2_4.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v2_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v3_1.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v3_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v3_2.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v3_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v3_3.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v3_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v3_4.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v3_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v4_1.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v4_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v4_2.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v4_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v4_3.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v4_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v4_4.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v4_4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v5-4.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v5-4.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v5_1.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v5_1.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v5_2.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v5_2.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/img/vintage/v5_3.jpg",
+      "PackagePath": "staticwebassets/img/vintage/v5_3.jpg"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mehmetali/Desktop/CE/WebProgramming/SoliAntique/wwwroot/video/video.mp4",
+      "PackagePath": "staticwebassets/video/video.mp4"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.SoliAntique.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.SoliAntique.props",
+      "PackagePath": "build\\SoliAntique.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.SoliAntique.props",
+      "PackagePath": "buildMultiTargeting\\SoliAntique.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.SoliAntique.props",
+      "PackagePath": "buildTransitive\\SoliAntique.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
