@@ -1,0 +1,85 @@
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "_Layout";
+}
+
+@section Styles {
+<style>
+  .map-container {
+    width: 100%;
+    height: 350px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .contact-info {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  .contact-img {
+    width: 100%;
+    height: 100%;
+    max-height: 720px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+</style>
+}
+
+<div class="container py-5">
+  <h2 class="mb-4 text-center">Get in Touch With Us</h2>
+  
+  <div class="row g-4">
+    <div class="col-md-6">
+      <div class="map-container">
+        <iframe 
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48118.94789335364!2d28.9706081!3d41.0082376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab998b4cb1063%3A0x3380c2db24d4e4cb!2s%C4%B0stanbul!5e0!3m2!1sen!2str!4v1620220361721!5m2!1sen!2str" 
+          width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy">
+        </iframe>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="contact-info">
+        <h5><strong>Address:</strong></h5>
+        <p>Rug Street No:17, Kadıköy / Istanbul</p>
+
+        <h5><strong>Phone:</strong></h5>
+        <p><a href="tel:+902123456789">+90 (212) 349 23 95</a></p>
+
+        <h5><strong>Email:</strong></h5>
+        <p><a href="mailto:info@soliantique.com">info@soliantique.com</a></p>
+
+        <h5><strong>Working Hours:</strong></h5>
+        <p>Weekdays: 09:00 - 18:00<br>Saturday: 10:00 - 16:00</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row mt-5 g-4">
+    <div class="col-md-6">
+      <img src="/img/contact.png" alt="Rug Image" class="contact-img" id="carpet_img"/>
+    </div>
+    <div class="col-md-6">
+      <h5 class="mb-3">Send Us a Message</h5>
+      <form>
+        <div class="mb-3">
+          <label for="name" class="form-label">Your Name</label>
+          <input type="text" class="form-control" id="name" placeholder="Your name">
+        </div>
+        <div class="mb-3">
+          <label for="email" class="form-label">Email</label>
+          <input type="email" class="form-control" id="email" placeholder="example@mail.com">
+        </div>
+        <div class="mb-3">
+          <label for="message" class="form-label">Message</label>
+          <textarea class="form-control" id="message" rows="4" placeholder="Write your message..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-dark">Send</button>
+      </form>
+    </div>
+  </div>
+</div>

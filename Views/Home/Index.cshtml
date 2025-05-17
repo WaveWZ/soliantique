@@ -1,0 +1,19 @@
+﻿@model List<Category>
+@{
+    ViewData["Title"] = "Ana Sayfa";
+    Layout = "_Layout";
+}
+
+<div class="row g-4 justify-content-center">
+@foreach (var category in Model)
+{
+    <div class="col-md-4">
+        <a href="@category.LinkUrl" class="text-decoration-none">
+            <div class="category-card">
+                <img src="@category.ImageUrl" class="img-fluid" alt="@category.Name" />
+                <div class="category-title">@category.Name</div>
+            </div>
+        </a>
+    </div>
+}
+</div>

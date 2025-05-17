@@ -1,0 +1,23 @@
+@model List<SoliAntique.Models.VintageCarpet>
+@{
+    ViewData["Title"] = "Vintage Halılar";
+    Layout = "_Layout";
+}
+
+<h2>Vintage Carpets</h2>
+
+<div class="row g-4">
+@foreach (var carpet in Model)
+{
+    <div class="col-md-4">
+        <div class="card">
+            <img src="@carpet.Images.FirstOrDefault()?.ImageUrl" class="card-img-top" style="height:200px; object-fit:cover;" />
+            <div class="card-body">
+                <h5>@carpet.Title</h5>
+                <p>@carpet.Dimensions</p>
+                <a href="/Vintage/Details/@carpet.Id" class="btn btn-dark btn-sm">Detail</a>
+            </div>
+        </div>
+    </div>
+}
+</div>

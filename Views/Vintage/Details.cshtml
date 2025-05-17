@@ -1,0 +1,161 @@
+@model VintageCarpet
+@{
+    ViewData["Title"] = @Model.Title;
+    Layout = "_Layout";
+}
+
+@section Styles {
+<style>
+    .carousel-inner img {
+        height: 450px;
+        object-fit: contain;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+    }
+
+    .thumbnail-img {
+        cursor: pointer;
+        border-radius: 6px;
+        margin: 5px;
+        height: 80px;
+        object-fit: cover;
+        border: 2px solid transparent;
+    }
+
+    .thumbnail-img.active-thumb {
+        border-color: #000;
+    }
+
+    .product-details h2 {
+        font-size: 2rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+    }
+
+    .product-details p {
+        font-size: 1.1rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .product-details .price {
+        font-size: 1.4rem;
+        font-weight: bold;
+        margin-top: 1rem;
+    }
+
+    .product-details .stock {
+        color: green;
+        font-weight: 600;
+    }
+
+    .product-details .secure-info {
+        font-size: 0.95rem;
+        margin-top: 1rem;
+        color: #333;
+    }
+
+    .product-details button {
+        font-size: 1rem;
+        padding: 10px 24px;
+    }
+
+    .details-wrapper {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+</style>
+}
+
+<div class="container details-wrapper">
+    <div class="row">
+        <div class="col-md-6 mb-4">
+            <div id="carpetCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    @for (int i = 0; i < Model.Images.Count; i++)
+                    {
+                        <div class="carousel-item @(i == 0 ? "active" : "")">
+                            <img src="@Model.Images[i].ImageUrl" class="d-block w-100 img-fluid" />
+                        </div>
+                    }
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carpetCarousel" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carpetCarousel" data-bs-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </button>
+            </div>
+            <div class="d-flex flex-wrap justify-content-center mt-3">
+                @for (int i = 0; i < Model.Images.Count; i++)
+                {
+                    <img src="@Model.Images[i].ImageUrl"
+                         class="thumbnail-img @(i == 0 ? "active-thumb" : "")"
+                         data-bs-target="#carpetCarousel"
+                         data-bs-slide-to="@i"
+                         alt="Thumbnail @i" />
+                }
+            </div>
+        </div>
+
+        <div class="col-md-6 product-details">
+            <h3>@Model.Title</h3>
+            <p><strong>Size:</strong> @Model.Dimensions</p>
+            <p><strong>Material:</strong> @Model.Material</p>
+            <p><strong>Color:</strong> @Model.Color</p>
+            <p><strong>Description:</strong> @Model.Description</p>
+            <p class="stock"><i class="bi bi-check-circle-fill me-1"></i>In Stock</p>
+            <p class="price">$@Model.Price</p>
+
+            <div class="d-flex justify-content-between text-center my-4" style="gap: 1rem;">
+                <div class="flex-fill">
+                    <i class="bi bi-scissors text-danger" style="font-size: 1.8rem;"></i>
+                    <div class="small mt-1">Hand Woven</div>
+                </div>
+                <div class="flex-fill">
+                    <i class="bi bi-stars text-warning" style="font-size: 1.8rem;"></i>
+                    <div class="small mt-1">One of a Kind</div>
+                </div>
+                <div class="flex-fill">
+                    <i class="bi bi-tree text-success" style="font-size: 1.8rem;"></i>
+                    <div class="small mt-1">Eco-Friendly</div>
+                </div>
+            </div>
+            <div class="bi bi-truck me-1"> Ships in 2-3 business days</div>
+            <form asp-controller="Cart" asp-action="AddToCart" method="post" class="d-flex align-items-center gap-3 mb-3">
+                <input type="hidden" name="ProductId" value="@Model.Id" />
+                <input type="hidden" name="Title" value="@Model.Title" />
+                <input type="hidden" name="Price" value="@Model.Price" />
+                <input type="hidden" name="ImageUrl" value="@Model.Images.FirstOrDefault()?.ImageUrl" />
+                <input type="hidden" name="ProductType" value="Vintage" />
+                <button type="submit" class="btn btn-success shadow">🛒 Add to Cart</button>
+
+
+                <div class="secure-info text-start">
+                    <i class="bi bi-lock-fill text-success me-1"></i>SSL Secure<br />
+                    <i class="bi bi-patch-check-fill text-primary me-1"></i>100% Authentic<br />
+                </div>
+            </form>
+
+
+
+            <div class="accordion mt-3" id="deliveryAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="deliveryHeading">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#deliveryCollapse">
+                            Delivery & Return Policy
+                        </button>
+                    </h2>
+                    <div id="deliveryCollapse" class="accordion-collapse collapse" data-bs-parent="#deliveryAccordion">
+                        <div class="accordion-body">
+                            <ul class="mb-2">
+                                <li><strong>Return within 15 days:</strong> You can return your order within 15 days of delivery using our Easy Return service.</li>
+                                <li><strong>Exchange in store:</strong> You may exchange items in Soli Antique stores within 15 days.</li>
+                                <li><strong>Email confirmation:</strong> We will notify you by email once your return is received.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
